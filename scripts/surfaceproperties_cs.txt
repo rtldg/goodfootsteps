@@ -6,15 +6,15 @@
 "snow"
 {
 	"friction"	"0.8"
-	"stepleft"	"Snow.StepLeft"
-	"stepright"	"Snow.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 }
 
 "metalgrate"
 {
 	"friction"	"0.8"
-	"stepleft"	"Metalgrate.StepLeft"
-	"stepright"	"Metalgrate.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 }
 
 "metalvehicle"
@@ -66,6 +66,6 @@
 "hay"
 {
 	"base"		"wood"
-	"stepleft"	"Grass.StepLeft"
-	"stepright"	"Grass.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 }

@@ -75,8 +75,8 @@
 	"elasticity"	"0.1"
 	"audioreflectivity" "0.83"
 	"friction"	"0.8"
-	"stepleft"	"SolidMetal.StepLeft"
-	"stepright"	"SolidMetal.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"impacthard"	"SolidMetal.ImpactHard"
 	"impactsoft"	"SolidMetal.ImpactSoft"
 	"scraperough"	"SolidMetal.ScrapeRough"
@@ -95,8 +95,8 @@
 	"base"	"solidmetal"
 	"thickness"	"0.1"
 
-	"stepleft"	"Metal_Box.StepLeft"
-	"stepright"	"Metal_Box.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"bulletimpact"	"Metal_Box.BulletImpact"
 	"scraperough"	"Metal_Box.ScrapeRough"
 	"scrapesmooth"	"Metal_Box.ScrapeSmooth"
@@ -146,8 +146,8 @@
 	"elasticity"	"0.25"
 	"friction"	"0.8"
 
-	"stepleft"	"MetalGrate.StepLeft"
-	"stepright"	"MetalGrate.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"impacthard"	"MetalGrate.ImpactHard"
 	"impactsoft"	"MetalGrate.ImpactSoft"
 	"scraperough"	"MetalGrate.ScrapeRough"
@@ -171,8 +171,8 @@
 	"elasticity"	"0.1"
 	"friction"	"0.8"
 
-	"stepleft"	"MetalVent.StepLeft"
-	"stepright"	"MetalVent.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"impacthard"	"MetalVent.ImpactHard"
 	
 	"audioreflectivity" "0.33"
@@ -203,8 +203,8 @@
 	"elasticity"	"0.01"
 	"friction"	"0.8"
 
-	"stepleft"	"Dirt.StepLeft"
-	"stepright"	"Dirt.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"impacthard"	"Dirt.Impact"
 	"scraperough"	"Dirt.Scrape"
 	"bulletimpact"	"Dirt.BulletImpact"
@@ -221,8 +221,8 @@
 	"friction"	 "0.6"
 	"dampening"	 "6.0"
 
-	"stepleft"	 "Mud.StepLeft"
-	"stepright"	 "Mud.StepRight"
+	"stepleft"	 "Concrete.StepLeft"
+	"stepright"	 "Concrete.StepRight"
 	
 	"audiohardnessfactor" "0.0"
 	"audioroughnessfactor" "0.1"
@@ -234,8 +234,8 @@
 	"friction"	 "0.1"
 	"jumpfactor" "0.7"
 
-	"stepleft"	 "SlipperySlime.StepLeft"
-	"stepright"	 "SlipperySlime.StepRight"
+	"stepleft"	 "Concrete.StepLeft"
+	"stepright"	 "Concrete.StepRight"
 
 	"audiohardnessfactor" "0.0"
 	"audioroughnessfactor" "0.1"
@@ -244,8 +244,8 @@
 "grass"
 {
 	"base"		"dirt"
-	"stepleft"	"Grass.StepLeft"
-	"stepright"	"Grass.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 }
 
 "tile"
@@ -255,8 +255,8 @@
 	"elasticity"	"0.3"
 	"friction"	"0.8"
 
-	"stepleft"	"Tile.StepLeft"
-	"stepright"	"Tile.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 
 	"audioreflectivity" "0.99"
 	"audioroughnessfactor" "0.1"
@@ -273,8 +273,8 @@
 	"elasticity"	"0.1"
 	"friction"	"0.8"
 
-	"stepleft"		"Wood.StepLeft"
-	"stepright"		"Wood.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Wood.BulletImpact"
 	"scraperough"	"Wood.ScrapeRough"
 	"scrapesmooth"	"Wood.ScrapeSmooth"
@@ -302,8 +302,8 @@
 {
 	"base"	"Wood"
 
-	"stepleft"		"Wood_Box.StepLeft"
-	"stepright"		"Wood_Box.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Wood_Box.BulletImpact"
 	"scraperough"	"Wood_Box.ScrapeRough"
 	"scrapesmooth"	"Wood_Box.ScrapeSmooth"
@@ -321,8 +321,8 @@
 {
 	"base"	"Wood"
 
-	"stepleft"		"Wood_Crate.StepLeft"
-	"stepright"		"Wood_Crate.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"scraperough"	"Wood_Crate.ScrapeRough"
 	"scrapesmooth"	"Wood_Crate.ScrapeSmooth"
 	"impacthard"	"Wood_Crate.ImpactHard"
@@ -387,8 +387,8 @@
 	"base"	"Wood_Crate"
 	"thickness"		"1.0"
 
-	"stepleft"		"Wood_Panel.StepLeft"
-	"stepright"		"Wood_Panel.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Wood_Panel.BulletImpact"
 	"scraperough"	"Wood_Panel.ScrapeRough"
 	"scrapesmooth"	"Wood_Panel.ScrapeSmooth"
@@ -425,8 +425,8 @@
 	"friction"	"0.9"
 	"dampening"	 "200.0"
 
-	"stepleft"	"Mud.StepLeft"
-	"stepright"	"Mud.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"bulletimpact"	"Water.BulletImpact"
 
 	"gamematerial"	"S"
@@ -492,8 +492,8 @@
 	"elasticity"	"0.2"
 	"friction"	"0.5"
 
-	"stepleft"		"Glass.StepLeft"
-	"stepright"		"Glass.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"scraperough"	"Glass.ScrapeRough"
 	"scrapesmooth"	"Glass.ScrapeSmooth"
 	"impacthard"	"Glass.ImpactHard"
@@ -575,8 +575,8 @@
 {
 	"base"		"rock"
 	"friction"	"0.4"
-	"stepleft"	"Gravel.StepLeft"
-	"stepright""Gravel.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright""Concrete.StepRight"
 }
 
 "brick"
@@ -601,8 +601,8 @@
 	"density"	"1600"
 	"elasticity"	"0.25"
 	"friction"	"0.8"
-	"stepleft"	"ChainLink.StepLeft"
-	"stepright"	"ChainLink.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"impacthard"	"ChainLink.ImpactHard"
 	"impactsoft"	"ChainLink.ImpactSoft"
 	"scraperough"	"ChainLink.ScrapeRough"
@@ -630,8 +630,8 @@
 {
 	"density"	"900"
 
-	"stepleft"	"Flesh.StepLeft"
-	"stepright"	"Flesh.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"bulletimpact"	"Flesh.BulletImpact"
 	"impacthard"	"Flesh.ImpactHard"
 	"impactsoft"	"Flesh.ImpactSoft"
@@ -738,8 +738,8 @@
 	"audiohardnessfactor" "0.5"
 	"audioroughnessfactor" "0.1"
 
-	"stepleft"		"drywall.StepLeft"
-	"stepright"		"drywall.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"drywall.ImpactHard"
 	"scraperough"	"ceiling_tile.ScrapeRough"
 	"scrapesmooth"	"ceiling_tile.ScrapeSmooth"
@@ -762,8 +762,8 @@
 	"audiohardnessfactor" "0.25"
 	"audioroughnessfactor" "0.25"
 
-	"stepleft"		"Cardboard.StepLeft"
-	"stepright"		"Cardboard.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Cardboard.BulletImpact"
 	"scraperough"	"Cardboard.ScrapeRough"
 	"scrapesmooth"	"Cardboard.ScrapeSmooth"
@@ -788,8 +788,8 @@
 	"audiohardnessfactor" "0.25"
 	"audioroughnessfactor" "0.25"
 
-	"stepleft"		"Plastic_Barrel.StepLeft"
-	"stepright"		"Plastic_Barrel.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Plastic_Barrel.BulletImpact"
 	"scraperough"	"Plastic_Barrel.ScrapeRough"
 	"scrapesmooth"	"Plastic_Barrel.ScrapeSmooth"
@@ -816,8 +816,8 @@
 	"audiohardnessfactor" "0.25"
 	"audioroughnessfactor" "0.25"
 
-	"stepleft"		"Plastic_Box.StepLeft"
-	"stepright"		"Plastic_Box.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"Plastic_Box.BulletImpact"
 	"scraperough"	"Plastic_Box.ScrapeRough"
 	"scrapesmooth"	"Plastic_Box.ScrapeSmooth"
@@ -863,8 +863,8 @@
 "sand"
 {
 	"base"		"dirt"
-	"stepleft"	"Sand.StepLeft"
-	"stepright"	"Sand.StepRight"
+	"stepleft"	"Concrete.StepLeft"
+	"stepright"	"Concrete.StepRight"
 	"bulletimpact"	"Sand.BulletImpact"
 
 	"audioreflectivity" "0.03"
@@ -878,8 +878,8 @@
 	"elasticity"	"0.2"
 	"friction"		"0.8"
 
-	"stepleft"		"Rubber.StepLeft"
-	"stepright"		"Rubber.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"impacthard"	"Rubber.ImpactHard"
 	"impactsoft"	"Rubber.ImpactSoft"
 	"bulletimpact"	"Rubber.BulletImpact"
@@ -954,8 +954,8 @@
 	"friction"	"0.4"
 	"elasticity"	"0.3"
 
-	"stepleft"		"GlassBottle.StepLeft"
-	"stepright"		"GlassBottle.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"impacthard"	"GlassBottle.ImpactHard"
 	"impactsoft"	"GlassBottle.ImpactSoft"
 	"scraperough"	"GlassBottle.ScrapeRough"
@@ -1099,8 +1099,8 @@
 {
 	"base"		"cardboard"
 
-	"stepleft"		"ceiling_tile.StepLeft"
-	"stepright"		"ceiling_tile.StepRight"
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
 	"bulletimpact"	"ceiling_tile.BulletImpact"
 	"scraperough"	"ceiling_tile.ScrapeRough"
 	"scrapesmooth"	"ceiling_tile.ScrapeSmooth"
