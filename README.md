@@ -8,9 +8,6 @@ More specifically, here's what the the file paths should look like.
 
 ```
 steamapps/common/Counter-Strike Source/cstrike/custom/goodfootsteps/scripts/surfaceproperties.txt
-```
-and
-```
 steamapps/common/Counter-Strike Source/cstrike/custom/goodfootsteps/scripts/surfaceproperties_cs.txt
 ```
 
